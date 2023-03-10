@@ -6,7 +6,7 @@ This is a React app that displays a list of users and allows the user to select 
 
 To run this app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/users-app.git`
+1. Clone the repository: `git clone https://github.com/vaveylaa/users-app.git`
 2. Navigate to the project directory: `cd users-app`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
