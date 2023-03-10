@@ -1,3 +1,34 @@
+# Users App
+
+This is a React app that displays a list of users and allows the user to select a user from the list.
+
+## Installation
+
+To run this app, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/users-app.git`
+2. Navigate to the project directory: `cd users-app`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open the app in your browser: `http://localhost:3000`
+
+## Usage
+
+Once you have the app running, you can view a list of users by navigating to the home page. To select a user from the list, simply click on their name in the table. The selected user's name will be displayed in a separate card below the table.
+
+## Styling
+
+This app uses the React Bootstrap library for styling. The table has a white border, and the selected user card has a light blue background.
+
+## Contributing
+
+Contributions are welcome! If you find a bug or would like to add a new feature, please submit a pull request.
+
+## License
+
+This app is open source and available under the MIT License.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
